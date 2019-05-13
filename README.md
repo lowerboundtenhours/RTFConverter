@@ -2,7 +2,7 @@
 
 ## Refactor Design
 
-
+![](./doc/RTFConverter.png)
 
 # Spec
 
